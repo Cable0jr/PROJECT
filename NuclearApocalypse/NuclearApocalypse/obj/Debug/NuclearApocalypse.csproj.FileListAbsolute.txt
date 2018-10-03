@@ -1,0 +1,7 @@
+C:\Users\edwaclar131\Documents\GitHub\PROJECT\NuclearApocalypse\NuclearApocalypse\bin\Debug\NuclearApocalypse.exe.config
+C:\Users\edwaclar131\Documents\GitHub\PROJECT\NuclearApocalypse\NuclearApocalypse\bin\Debug\NuclearApocalypse.exe
+C:\Users\edwaclar131\Documents\GitHub\PROJECT\NuclearApocalypse\NuclearApocalypse\bin\Debug\NuclearApocalypse.pdb
+C:\Users\edwaclar131\Documents\GitHub\PROJECT\NuclearApocalypse\NuclearApocalypse\obj\Debug\NuclearApocalypse.csprojAssemblyReference.cache
+C:\Users\edwaclar131\Documents\GitHub\PROJECT\NuclearApocalypse\NuclearApocalypse\obj\Debug\NuclearApocalypse.csproj.CoreCompileInputs.cache
+C:\Users\edwaclar131\Documents\GitHub\PROJECT\NuclearApocalypse\NuclearApocalypse\obj\Debug\NuclearApocalypse.exe
+C:\Users\edwaclar131\Documents\GitHub\PROJECT\NuclearApocalypse\NuclearApocalypse\obj\Debug\NuclearApocalypse.pdb
