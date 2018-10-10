@@ -1,0 +1,10 @@
+﻿You check the phone to find it is dead. You realize this is most likely useless.
+
+What do you do?
+---
+1) Search again, and take something else. | 0014.txt
+2) You decide to not waste anymore time, take nothing and run down the hall. | 0013.txt
+
+
+
+ 

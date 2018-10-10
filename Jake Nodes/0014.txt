@@ -1,0 +1,13 @@
+﻿Upon searching his pockets again, you now have 4 objects.
+One is an identification card which has the scientists name, the location where you are, and medium clearance.
+A crumpled, and old looking note.
+A set of roughly 15 keys.
+And a clipboard with a pen and chart on it
+
+What do you take?
+---
+1) The ID. | 0008.txt
+2) The old, crumpled note. | 0009.txt
+3) The key set. | 0010.txt
+4) The clipboard, pen and chart. | 0012.txt
+5) You take nothing, and run. | 0013.txt
