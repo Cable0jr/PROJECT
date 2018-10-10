@@ -31,7 +31,12 @@ namespace ConsoleApp2
                     Console.WriteLine("This Is Option 2");
                     break;
                 }
-                else if (x >= 3)
+                else if (x == 3)
+                {
+                    Console.WriteLine("This is a very unlikely pickle we have i suppose");
+                    break;
+                }
+                else if (x >= 4)
                 {
                     Console.WriteLine("That Is Not An Option, Please Try Again");
                 }
