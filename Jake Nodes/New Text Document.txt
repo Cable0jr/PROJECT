@@ -1,0 +1,13 @@
+You run down the dark hall with a few flickering lights, 
+There appears to be cell like doors on each side of the hallway so you start to run faster.
+The combo of you being scared and it being hard to see in the dark makes you unaware you've reached the end of the hallway, 
+you smack hard into the wall tripping an alarm.
+The cells slowly open one by one releasing horrifying, disfigured creatures alike to human but too disfigured to know for sure.
+They all slowly walk toward you, now curled in a corner, you know you have to run or you'll be trapped.
+You sprint to try and run between them as the are slowly moving towards you, and just as you are about to make it through
+you trip, fall and you are now trapped in the middle of the large group. As the descend on you, the last sound you hear is
+a garbled, muffled cry, then you feel the life leave your body...
+
+---
+1) What..? (Restart) | 0014.txt
+2) How..? (Close Game)| 0013.txt
