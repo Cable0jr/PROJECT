@@ -5,3 +5,11 @@ C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Fo
 C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Forgotten World.pdb
 C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\obj\Debug\Forgotten World.exe
 C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\obj\Debug\Forgotten World.pdb
+C:\Users\Richard\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Forgotten World.exe.config
+C:\Users\Richard\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Forgotten World.exe
+C:\Users\Richard\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Forgotten World.pdb
+C:\Users\Richard\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\obj\Debug\Forgotten World.csprojAssemblyReference.cache
+C:\Users\Richard\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\obj\Debug\Forgotten World.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\obj\Debug\Forgotten World.exe
+C:\Users\Richard\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\obj\Debug\Forgotten World.pdb
+C:\Users\Richard\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\START.txt
