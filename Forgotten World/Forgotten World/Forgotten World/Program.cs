@@ -11,7 +11,7 @@ namespace ForgottenWorld
 
             Console.Title = "Forgotten World";
 
-            string node = "Nodes\\START.txt";
+            string node = "Nodes\\11START.txt";
 
             bool isRunning = true;
 
