@@ -2,7 +2,13 @@
 This book, the newest addition to your many books already, is to keep your adventures,
 discoveries, and monumentous events logged and so that the next generation can see
 what there elders have experienced..
+
 Your name? Artyom Pecinovesky.
 Your age? 29.
 Your world? Bombed from the leaders of the Old World, when you were just a child.
-A nuclear Holocaust
+Your legacy? Yet to be known..
+
+Continue
+---
+1) Continue | STORY.txt	
+2) Close | CLOSE.txt
