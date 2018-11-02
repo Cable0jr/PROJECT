@@ -1,0 +1,19 @@
+﻿You write the newest development in your life, in your home, The Metal Giant, the water purifier
+has broken, and the Council of leaders decided to put together a team of 5 highly trained, specialist
+soldiers to go to a structure of the same purpose.
+
+Theres one thing about this Giant however, its inhabitants have since died and been reanimated as
+horrendous creatures with a thirst for blood. Otherwise, the structure is in perfect condition
+and is limitlessly usable for parts.
+You and your company of 4 other soldiers have been given 3 days
+until your departure, and you have all been told to say goodbye to family members and loved ones
+before you are away..
+
+You feel a twinge of pain in your chest at those words, for you have nobody that you consider close.
+Your parents stayed back so you could get to the Metal Giant, you have no significant other, and no
+brothers or sisters. You focus on the documentation of your life and your training as a soldier.
+
+Continue
+---
+Continue | STORY2.txt
+Quit | CLOSE.txt

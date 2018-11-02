@@ -1,0 +1,14 @@
+﻿This will be changed with every proper release of the project.
+The newest updates will be shown at the bottom due the way the
+text is displayed.
+
+10/22/18
++ Added Game and all required resources for it to function.
+* When close selected, game appears to "Crash", No Worries!
+This is version 0.0.1
+
+
+Options
+---
+1) Back | 11START.txt
+2) Close | CLOSE.txt

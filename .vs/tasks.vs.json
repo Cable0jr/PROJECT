@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-START",
+      "appliesTo": "Forgotten World/Forgotten World/Forgotten World/Nodes/START.txt",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-START",
+      "appliesTo": "Forgotten World/Forgotten World/Forgotten World/Nodes/START.txt",
+      "type": "launch"
+    }
+  ]
+}
