@@ -15,5 +15,5 @@ brothers or sisters. You focus on the documentation of your life and your traini
 
 Continue
 ---
-1) Continue | STORY2.txt
-2) Quit | CLOSE.txt
+Continue | STORY2.txt
+Quit | CLOSE.txt
