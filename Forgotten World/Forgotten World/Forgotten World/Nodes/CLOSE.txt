@@ -1,7 +1,0 @@
-﻿This option is to close the game, are you sure
-you wish to close the game?
-
-Options
----
-1) Yes | 
-2) No | 11START.txt
