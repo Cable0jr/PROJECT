@@ -1,0 +1,24 @@
+{
+  "id": "1.13.2-XRay",
+  "time": "2018-11-28T09:17:50-05:00",
+  "releaseTime": "2018-11-10T17:45:00-05:00",
+  "type": "release",
+  "arguments": {
+    "game": [
+      "--tweakClass",
+      "net.minecraftxray.loader.XRayTweaker"
+    ]
+  },
+  "libraries": [
+    {
+      "name": "net.minecraftxray:xray:61-1132"
+    },
+    {
+      "name": "net.minecraft:launchwrapper:1.12"
+    }
+  ],
+  "mainClass": "net.minecraft.launchwrapper.Launch",
+  "minimumLauncherVersion": 21,
+  "jar": "1.13.2",
+  "inheritsFrom": "1.13.2"
+}

@@ -1,0 +1,111 @@
+[09:18:26] [main/INFO]: Using primary tweak class name net.minecraftxray.loader.XRayTweaker
+[09:18:26] [main/INFO]: Calling tweak class net.minecraftxray.loader.XRayTweaker
+[09:18:26] [main/INFO]: XRayTweaker v61-1132
+[09:18:26] [main/INFO]: Detected Minecraft version: 1.13.2
+[09:18:27] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[09:18:28] [main/INFO]: Setting user: Cable_jr
+[09:18:31] [main/INFO]: LWJGL Version: 3.1.6 build 14
+[09:18:33] [main/INFO]: Reloading ResourceManager: Default
+[09:18:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:18:51] [Thread-2/INFO]: Initializing No Sound
+[09:18:51] [Thread-2/INFO]: (Silent Mode)
+[09:18:51] [Thread-2/INFO]: OpenAL initialized.
+[09:18:51] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+[09:18:51] [Sound Library Loader/INFO]: Sound engine started
+[09:18:57] [main/INFO]: Created: 1024x512 textures-atlas
+[09:19:00] [main/INFO]: Narrator library for x64 successfully loaded
+[09:19:10] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:19:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:19:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:19:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:19:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:19:10] [main/INFO]: Loaded 0 recipes
+[09:19:10] [main/INFO]: Loaded 0 advancements
+[09:19:10] [Server thread/INFO]: Starting integrated minecraft server version 1.13.2
+[09:19:10] [Server thread/INFO]: Generating keypair
+[09:19:10] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[09:19:10] [Server thread/INFO]: Reloading ResourceManager: Default
+[09:19:11] [Server thread/INFO]: Loaded 524 recipes
+[09:19:12] [Server thread/INFO]: Loaded 571 advancements
+[09:19:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:19:14] [Server thread/INFO]: Preparing spawn area: 0%
+[09:19:15] [Server thread/INFO]: Preparing spawn area: 0%
+[09:19:16] [Server thread/INFO]: Preparing spawn area: 0%
+[09:19:17] [Server thread/INFO]: Preparing spawn area: 0%
+[09:19:18] [Server thread/INFO]: Preparing spawn area: 0%
+[09:19:19] [Server thread/INFO]: Preparing spawn area: 0%
+[09:19:20] [Server thread/INFO]: Preparing spawn area: 0%
+[09:19:21] [Server thread/INFO]: Preparing spawn area: 0%
+[09:19:22] [Server thread/INFO]: Preparing spawn area: 0%
+[09:19:23] [Server thread/INFO]: Preparing spawn area: 0%
+[09:19:24] [Server thread/INFO]: Preparing spawn area: 0%
+[09:19:24] [Server thread/INFO]: Preparing spawn area: 4%
+[09:19:25] [Server thread/INFO]: Preparing spawn area: 8%
+[09:19:25] [Server thread/INFO]: Preparing spawn area: 12%
+[09:19:25] [Server thread/INFO]: Preparing spawn area: 16%
+[09:19:26] [Server thread/INFO]: Preparing spawn area: 20%
+[09:19:26] [Server thread/INFO]: Preparing spawn area: 24%
+[09:19:26] [Server thread/INFO]: Preparing spawn area: 28%
+[09:19:26] [Server thread/INFO]: Preparing spawn area: 32%
+[09:19:27] [Server thread/INFO]: Preparing spawn area: 36%
+[09:19:27] [Server thread/INFO]: Preparing spawn area: 40%
+[09:19:27] [Server thread/INFO]: Preparing spawn area: 44%
+[09:19:27] [Server thread/INFO]: Preparing spawn area: 48%
+[09:19:28] [Server thread/INFO]: Preparing spawn area: 52%
+[09:19:28] [Server thread/INFO]: Preparing spawn area: 56%
+[09:19:28] [Server thread/INFO]: Preparing spawn area: 60%
+[09:19:29] [Server thread/INFO]: Preparing spawn area: 64%
+[09:19:29] [Server thread/INFO]: Preparing spawn area: 68%
+[09:19:29] [Server thread/INFO]: Preparing spawn area: 72%
+[09:19:29] [Server thread/INFO]: Preparing spawn area: 76%
+[09:19:30] [Server thread/INFO]: Preparing spawn area: 80%
+[09:19:30] [Server thread/INFO]: Preparing spawn area: 84%
+[09:19:31] [Server thread/INFO]: Preparing spawn area: 88%
+[09:19:31] [Server thread/INFO]: Preparing spawn area: 92%
+[09:19:31] [Server thread/INFO]: Preparing spawn area: 96%
+[09:19:31] [Server thread/INFO]: Preparing spawn area: 100%
+[09:19:31] [Server thread/INFO]: Time elapsed: 19405 ms
+[09:19:34] [Server thread/INFO]: Changing view distance to 12, from 10
+[09:19:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
+[09:19:36] [Server thread/INFO]: Cable_jr[local:E:ab6d8b52] logged in with entity id 470 at (300.1080152138065, 71.0, 270.9379575950085)
+[09:19:36] [Server thread/INFO]: Cable_jr joined the game
+[09:19:38] [Server thread/INFO]: Saving and pausing game...
+[09:19:38] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[09:19:38] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[09:19:40] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[09:19:41] [main/INFO]: Loaded 6 advancements
+[09:19:43] [Server thread/INFO]: Saving and pausing game...
+[09:19:43] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[09:19:43] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[09:19:44] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[09:20:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[09:20:01] [Server thread/INFO]: Saving and pausing game...
+[09:20:01] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[09:20:01] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[09:20:02] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[09:20:51] [Server thread/INFO]: Saving and pausing game...
+[09:20:51] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[09:20:51] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[09:20:51] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[09:21:16] [Server thread/INFO]: [Cable_jr: Set the time to 18000]
+[09:21:16] [main/INFO]: [CHAT] Set the time to 18000
+[09:21:30] [Server thread/INFO]: Saving and pausing game...
+[09:21:30] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[09:21:30] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[09:21:30] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[09:21:35] [Server thread/INFO]: Saving and pausing game...
+[09:21:36] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[09:21:36] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[09:21:36] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[09:21:49] [Server thread/INFO]: Saving and pausing game...
+[09:21:49] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[09:21:49] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[09:21:49] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[09:22:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[09:22:12] [Server thread/INFO]: Saving and pausing game...
+[09:22:12] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[09:22:12] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[09:22:13] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[09:22:22] [main/INFO]: Stopping!
+[09:22:24] [main/INFO]: SoundSystem shutting down...
+[09:22:24] [main/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com

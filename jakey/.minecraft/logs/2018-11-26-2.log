@@ -1,0 +1,375 @@
+[09:45:42] [Client thread/INFO]: Setting user: Cable_jr
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.pickItem:key.mouse.middle
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.playerlist:key.keyboard.tab
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.advancements:key.keyboard.l
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.hotbar.5:key.keyboard.5
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.hotbar.6:key.keyboard.6
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.hotbar.7:key.keyboard.7
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.hotbar.8:key.keyboard.8
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.hotbar.1:key.keyboard.1
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.hotbar.2:key.keyboard.2
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.hotbar.3:key.keyboard.3
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.hotbar.4:key.keyboard.4
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.sprint:key.keyboard.left.control
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.forward:key.keyboard.w
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.drop:key.keyboard.q
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.back:key.keyboard.s
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.attack:key.mouse.left
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.use:key.mouse.right
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.saveToolbarActivator:key.keyboard.c
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.smoothCamera:key.keyboard.unknown
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.right:key.keyboard.d
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.jump:key.keyboard.space
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.sneak:key.keyboard.left.shift
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.spectatorOutlines:key.keyboard.unknown
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.left:key.keyboard.a
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.command:key.keyboard.slash
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.screenshot:key.keyboard.f2
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.hotbar.9:key.keyboard.9
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.togglePerspective:key.keyboard.f5
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.chat:key.keyboard.t
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.inventory:key.keyboard.e
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.fullscreen:key.keyboard.f11
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.loadToolbarActivator:key.keyboard.x
+[09:45:43] [Client thread/WARN]: Skipping bad option: key_key.swapHands:key.keyboard.f
+[09:45:43] [Client thread/INFO]: LWJGL Version: 2.9.4
+[09:45:44] [Client thread/INFO]: Reloading ResourceManager: Default
+[09:45:45] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:45:45] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[09:45:45] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:45:45] [Thread-3/INFO]: OpenAL initialized.
+[09:45:46] [Sound Library Loader/INFO]: Sound engine started
+[09:45:50] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[09:45:51] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[09:46:06] [Client thread/INFO]: Connecting to 2b2t.org, 25565
+[09:46:19] [Client thread/INFO]: Connecting to 2b2t.org, 25565
+[09:46:20] [Client thread/INFO]: Loaded 227 advancements
+[09:46:20] [Client thread/INFO]: [CHAT] <swartsak> > Good evening, Cable_jr.
+[09:46:23] [Client thread/INFO]: [CHAT] <swartsak> > Bye, victorsamuelmd.
+[09:46:25] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Are you tired of overpriced shops? Join: https://discord.gg/UUhbB5E
+[09:46:25] [Client thread/INFO]: [CHAT] <DSrOpQ> gosh darn kids its past your bedtime
+[09:46:33] [Client thread/INFO]: [CHAT] <swartsak> > See you next time, willemsteller.
+[09:46:35] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Make your own Shop inside The 2b2t Mall! https://discord.gg/YwcAcDK
+[09:46:40] [Client thread/INFO]: [CHAT] <swartsak> > Greetings, willemsteller.
+[09:46:43] [Client thread/INFO]: [CHAT] <swartsak> > Farewell, gmailes.
+[09:46:45] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Create your own shop without the hassle of creating a discord server! https://discord.gg/YwcAcDK
+[09:46:46] [Client thread/INFO]: [CHAT] <swartsak> > Good evening, MatMuz.
+[09:46:52] [Client thread/INFO]: [CHAT] <swartsak> > Greetings, TenStream10.
+[09:46:55] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join the cheapest shop on 2b2t! https://discord.gg/UUhbB5E
+[09:46:55] [Client thread/INFO]: [CHAT] <swartsak> > Howdy, Wailn.
+[09:46:56] [Client thread/INFO]: [CHAT] <MuddyAssassin> whats an elytra
+[09:47:01] [Client thread/INFO]: [CHAT] Saved screenshot as 2018-11-26_09.47.01.png
+[09:47:02] [Client thread/INFO]: [CHAT] <swartsak> > Catch ya later, kabukicrow.
+[09:47:03] [Client thread/INFO]: [CHAT] ACMiguel broke their neck, and the rest of their body.
+[09:47:04] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:47:05] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join The 2b2t Mall today! https://discord.gg/YwcAcDK
+[09:47:08] [Client thread/INFO]: [CHAT] <Xeath_Pk> GTFO
+[09:47:09] [Client thread/INFO]: [CHAT] DeadMCPlayer tried to swim in lava and didn't get out quick enough.
+[09:47:15] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Are you tired of overpriced shops? Join: https://discord.gg/UUhbB5E
+[09:47:15] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:47:17] [Client thread/INFO]: [CHAT] <swartsak> > Good evening, OEliasCrafter.
+[09:47:18] [Client thread/INFO]: [CHAT] <2pork2bot> > Did you know? #TeamPepsi is the most active team on 2b2t!
+[09:47:20] [Client thread/INFO]: [CHAT] <swartsak> > Bye, IHackedLambo.
+[09:47:21] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:47:24] [Client thread/INFO]: [CHAT] <MuddyAssassin> whats an elytra
+[09:47:25] [Client thread/INFO]: [CHAT] <swartsak> > Later, DoenerBoy6.
+[09:47:25] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Make your own Shop inside The 2b2t Mall! https://discord.gg/YwcAcDK
+[09:47:26] [Client thread/INFO]: [CHAT] EatMyMinecraft slayed willemsteller with mrking039's Tenderizer
+[09:47:29] [Client thread/INFO]: [CHAT] EatMyMinecraft cut inigo028 using mrking039's Tenderizer
+[09:47:30] [Client thread/INFO]: [CHAT] <Xeath_Pk> Elytra is your mums pussy flaps.
+[09:47:31] [Client thread/INFO]: [CHAT] <swartsak> > Later, Dr_Icesidio.
+[09:47:35] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Create your own shop without the hassle of creating a discord server! https://discord.gg/YwcAcDK
+[09:47:35] [Client thread/INFO]: [CHAT] <swartsak> > Good to see you, Dr_Icesidio.
+[09:47:37] [Client thread/INFO]: [CHAT] <MuddyAssassin> oh ok thanks!
+[09:47:42] [Client thread/INFO]: [CHAT] <Xeath_Pk> No problem.
+[09:47:45] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join the cheapest shop on 2b2t! https://discord.gg/UUhbB5E
+[09:47:53] [Client thread/INFO]: [CHAT] <tacoman506> XD
+[09:47:55] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join The 2b2t Mall today! https://discord.gg/YwcAcDK
+[09:47:58] [Client thread/INFO]: [CHAT] FinlandNoob turned into ash whilst fighting AntonMio
+[09:47:59] [Client thread/INFO]: [CHAT] halfabuck fell and crushed their insides with their legbones.
+[09:48:00] [Client thread/INFO]: [CHAT] ScriptCookie violently ended their own life with an end crystal
+[09:48:00] [Client thread/INFO]: [CHAT] <MuddyAssassin> so why is my mums pussy flaps banned
+[09:48:01] [Client thread/INFO]: [CHAT] <Dizztah> it's a pornstar, carmen elytra
+[09:48:04] [Client thread/INFO]: [CHAT] <J2XG> how many of yall beat off to fitmc
+[09:48:05] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Are you tired of overpriced shops? Join: https://discord.gg/UUhbB5E
+[09:48:06] [Client thread/INFO]: [CHAT] <FinlandNoob> >rip
+[09:48:07] [Client thread/INFO]: [CHAT] <swartsak> > See you later, ThibaultJr.
+[09:48:07] [Client thread/INFO]: [CHAT] <EatMyMinecraft> RIP x2
+[09:48:10] [Client thread/INFO]: [CHAT] ScriptCookie broke apart from falling.
+[09:48:15] [Client thread/INFO]: [CHAT] <swartsak> > Howdy, xenuxenu66.
+[09:48:15] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Make your own Shop inside The 2b2t Mall! https://discord.gg/YwcAcDK
+[09:48:16] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:48:18] [Client thread/INFO]: [CHAT] <2pork2bot> > Did you know? #TeamPepsi is the most active team on 2b2t!
+[09:48:20] [Client thread/INFO]: [CHAT] ScriptCookie committed suicide.
+[09:48:21] [Client thread/INFO]: [CHAT] <ACMiguel> w
+[09:48:22] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:48:22] [Client thread/INFO]: [CHAT] <swartsak> > Good to see you, villageboss1.
+[09:48:24] [Client thread/INFO]: [CHAT] <Xeath_Pk> FitMC beats it to himself.
+[09:48:25] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Create your own shop without the hassle of creating a discord server! https://discord.gg/YwcAcDK
+[09:48:26] [Client thread/INFO]: [CHAT] <swartsak> > Hello, X756k_Z397k.
+[09:48:28] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:48:28] [Client thread/INFO]: [CHAT] DainIronfoot_II broke their neck, and the rest of their body.
+[09:48:32] [Client thread/INFO]: [CHAT] <IHackedLambo> villageboss1 = cityboss1?
+[09:48:34] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:48:35] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join the cheapest shop on 2b2t! https://discord.gg/UUhbB5E
+[09:48:36] [Client thread/INFO]: [CHAT] <swartsak> > Greetings, koraseeq.
+[09:48:38] [Client thread/INFO]: [CHAT] <MuddyAssassin> i masturbate to the mirror
+[09:48:41] [Client thread/INFO]: [CHAT] DeadMCPlayer became lava.
+[09:48:42] [Client thread/INFO]: [CHAT] Jollerino was trampled to death by a zombie.
+[09:48:44] [Client thread/INFO]: [CHAT] OEliasCrafter died inside lava somehow whilst fighting PuffMLG
+[09:48:44] [Client thread/INFO]: [CHAT] ScriptCookie ended their life.
+[09:48:45] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join The 2b2t Mall today! https://discord.gg/YwcAcDK
+[09:48:45] [Client thread/INFO]: [CHAT] <IHackedLambo> me too
+[09:48:46] [Client thread/INFO]: [CHAT] <swartsak> > Greetings, Hippo62.
+[09:48:48] [Client thread/INFO]: [CHAT] inigo028 gave up life.
+[09:48:50] [Client thread/INFO]: [CHAT] <PuffMLG> good bye
+[09:48:52] [Client thread/INFO]: [CHAT] <IHackedLambo> that reflective glass is so hot
+[09:48:55] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Are you tired of overpriced shops? Join: https://discord.gg/UUhbB5E
+[09:48:56] [Client thread/INFO]: [CHAT] <IHackedLambo> and the wood around it
+[09:49:03] [Client thread/INFO]: [CHAT] <IHackedLambo> it makes me cum every time
+[09:49:05] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Make your own Shop inside The 2b2t Mall! https://discord.gg/YwcAcDK
+[09:49:09] [Client thread/INFO]: [CHAT] EatMyMinecraft crumbled MuddyAssassin using mrking039's Tenderizer
+[09:49:09] [Client thread/INFO]: [CHAT] <IHackedLambo> ARMORSMITH IS A FUCKING FAGGOT
+[09:49:09] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> > Ever wonder who Lowdown69 ACTUALLY is? !whois Lowdown69
+[09:49:09] [Client thread/INFO]: [CHAT] inigo028 ended their life.
+[09:49:13] [Client thread/INFO]: [CHAT] <EatMyMinecraft> RIP
+[09:49:15] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Create your own shop without the hassle of creating a discord server! https://discord.gg/YwcAcDK
+[09:49:16] [Client thread/INFO]: [CHAT] <swartsak> > See you next time, MaskedSky588860.
+[09:49:17] [Client thread/INFO]: [CHAT] <Mike_builder> is reflect glass diff from normal glass?
+[09:49:18] [Client thread/INFO]: [CHAT] <2pork2bot> > Did you know? Most people online don't remember this meme!
+[09:49:23] [Client thread/INFO]: [CHAT] PuffMLG melted in lava.
+[09:49:25] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join the cheapest shop on 2b2t! https://discord.gg/UUhbB5E
+[09:49:26] [Client thread/INFO]: [CHAT] <LordKekonomy> ye
+[09:49:26] [Client thread/INFO]: [CHAT] <swartsak> > Greetings, CrazyRay3912.
+[09:49:26] [Client thread/INFO]: [CHAT] <villageboss1> who the fuck is armorsmith
+[09:49:28] [Client thread/INFO]: [CHAT] <MuddyAssassin> i dont fap to the glass i fap to my reflection...
+[09:49:30] [Client thread/INFO]: [CHAT] <Rainbow_Girl1> !lag
+[09:49:30] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> > RUSHER LAG ON
+[09:49:35] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join The 2b2t Mall today! https://discord.gg/YwcAcDK
+[09:49:35] [Client thread/INFO]: [CHAT] <swartsak> > Good to see you, gmailes.
+[09:49:37] [Client thread/INFO]: [CHAT] <FinlandNoob> !lag
+[09:49:37] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> > RUSHER LAG OFF
+[09:49:40] [Client thread/INFO]: [CHAT] <Rainbow_Girl1> !lag
+[09:49:40] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> > RUSHER LAG ON
+[09:49:42] [Client thread/INFO]: [CHAT] <FinlandNoob> !lag
+[09:49:42] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> > RUSHER LAG OFF
+[09:49:44] [Client thread/INFO]: [CHAT] <Rainbow_Girl1> !lag
+[09:49:44] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> > RUSHER LAG ON
+[09:49:45] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Are you tired of overpriced shops? Join: https://discord.gg/UUhbB5E
+[09:49:47] [Client thread/INFO]: [CHAT] <FinlandNoob> !lag
+[09:49:47] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> > RUSHER LAG OFF
+[09:49:50] [Client thread/INFO]: [CHAT] <Rainbow_Girl1> !lag
+[09:49:50] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> > RUSHER LAG ON
+[09:49:51] [Client thread/INFO]: [CHAT] <swartsak> > Farewell, Conicaw.
+[09:49:52] [Client thread/INFO]: [CHAT] EatMyMinecraft terminated halfabuck using mrking039's Tenderizer
+[09:49:55] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Make your own Shop inside The 2b2t Mall! https://discord.gg/YwcAcDK
+[09:49:55] [Client thread/INFO]: [CHAT] <Bakonn> that doesnt do anythiing
+[09:49:56] [Client thread/INFO]: [CHAT] <EatMyMinecraft> RIP
+[09:49:57] [Client thread/INFO]: [CHAT] <Rainbow_Girl1> !lag
+[09:49:57] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> > RUSHER LAG OFF
+[09:49:57] [Client thread/INFO]: [CHAT] <swartsak> > Bye, Tiago0620758.
+[09:50:00] [Client thread/INFO]: [CHAT] <Rainbow_Girl1> !lag
+[09:50:00] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> > RUSHER LAG ON
+[09:50:00] [Client thread/INFO]: [CHAT] ACMiguel broke their neck, and the rest of their body.
+[09:50:01] [Client thread/INFO]: [CHAT] <GiB3T> JOUR !
+[09:50:02] [Client thread/INFO]: [CHAT] <Rainbow_Girl1> !lag
+[09:50:02] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> > RUSHER LAG OFF
+[09:50:05] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Create your own shop without the hassle of creating a discord server! https://discord.gg/YwcAcDK
+[09:50:05] [Client thread/INFO]: [CHAT] <GiB3T> NUIT !
+[09:50:07] [Client thread/INFO]: [CHAT] <Rainbow_Girl1> !lag
+[09:50:07] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> > RUSHER LAG ON
+[09:50:08] [Client thread/INFO]: [CHAT] <swartsak> > Hello, Tiago0620758.
+[09:50:09] [Client thread/INFO]: [CHAT] <J2XG> why beat off when there are perfectly good dead animals on the side of the road everyday
+[09:50:09] [Client thread/INFO]: [CHAT] <Bakonn> typing lag dont do shit
+[09:50:11] [Client thread/INFO]: [CHAT] <GiB3T> JOUR !
+[09:50:14] [Client thread/INFO]: [CHAT] <swartsak> > Later, basdeb.
+[09:50:15] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join the cheapest shop on 2b2t! https://discord.gg/UUhbB5E
+[09:50:16] [Client thread/INFO]: [CHAT] <GiB3T> NUIT !
+[09:50:18] [Client thread/INFO]: [CHAT] Dr_Icesidio withered away.
+[09:50:18] [Client thread/INFO]: [CHAT] <2pork2bot> > Did you know? #TeamPepsi is the most active team on 2b2t!
+[09:50:18] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> [IHackedLambo#2292] STOP OR YOU ARE GETTING IGNORED
+[09:50:24] [Client thread/INFO]: [CHAT] <swartsak> > Farewell, timetoerist13.
+[09:50:25] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join The 2b2t Mall today! https://discord.gg/YwcAcDK
+[09:50:25] [Client thread/INFO]: [CHAT] DainIronfoot_II fell and crushed their insides with their legbones.
+[09:50:26] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:50:28] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> [IHackedLambo#2292] stop it
+[09:50:30] [Client thread/INFO]: [CHAT] <swartsak> > Catch ya later, Zarkrex.
+[09:50:32] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:50:35] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Are you tired of overpriced shops? Join: https://discord.gg/UUhbB5E
+[09:50:39] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:50:44] [Client thread/INFO]: [CHAT] <GiB3T> I'm just a god
+[09:50:45] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Make your own Shop inside The 2b2t Mall! https://discord.gg/YwcAcDK
+[09:50:45] [Client thread/INFO]: [CHAT] EatMyMinecraft butchered inigo028 using mrking039's Tenderizer
+[09:50:46] [Client thread/INFO]: [CHAT] DeadMCPlayer became lava.
+[09:50:48] [Client thread/INFO]: [CHAT] <swartsak> > Hello, KINGOFMCBRO.
+[09:50:49] [Client thread/INFO]: [CHAT] <EatMyMinecraft> RIP
+[09:50:52] [Client thread/INFO]: [CHAT] <Rainbow_Girl1> !iam a godess
+[09:50:52] [Client thread/INFO]: [CHAT] <xX_BenShapiro_Xx> > Rainbow_Girl1 is a godess
+[09:50:55] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Create your own shop without the hassle of creating a discord server! https://discord.gg/YwcAcDK
+[09:50:55] [Client thread/INFO]: [CHAT] Jollerino committed suicide.
+[09:50:56] [Client thread/INFO]: [CHAT] <swartsak> > Howdy, bernli.
+[09:51:00] [Client thread/INFO]: [CHAT] <J2XG> brb niggers
+[09:51:00] [Client thread/INFO]: [CHAT] <swartsak> > Hello, timetoerist13.
+[09:51:01] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:51:03] [Client thread/INFO]: [CHAT] <Xeath_Pk> What did you do to BenShapiro bot?
+[09:51:05] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join the cheapest shop on 2b2t! https://discord.gg/UUhbB5E
+[09:51:05] [Client thread/INFO]: [CHAT] <IHackedLambo> a godess of running and loving fat cock
+[09:51:06] [Client thread/INFO]: [CHAT] inigo028 hit the ground too hard.
+[09:51:08] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:51:08] [Client thread/INFO]: [CHAT] <swartsak> > Hey, J2XG.
+[09:51:13] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:51:14] [Client thread/INFO]: [CHAT] <J2XG> there we go
+[09:51:15] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join The 2b2t Mall today! https://discord.gg/YwcAcDK
+[09:51:18] [Client thread/INFO]: [CHAT] <swartsak> > Good evening, villageboss1.
+[09:51:18] [Client thread/INFO]: [CHAT] <2pork2bot> > Did you know? #TeamPepsi is the most active team on 2b2t!
+[09:51:20] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:51:22] [Client thread/INFO]: [CHAT] DainIronfoot_II tripped, broke a bone or died somehow inside lava.
+[09:51:25] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Are you tired of overpriced shops? Join: https://discord.gg/UUhbB5E
+[09:51:25] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:51:32] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:51:35] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Make your own Shop inside The 2b2t Mall! https://discord.gg/YwcAcDK
+[09:51:38] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:51:39] [Client thread/INFO]: [CHAT] <swartsak> > Bye, bertiewhopple2.
+[09:51:44] [Client thread/INFO]: [CHAT] RusherFag slayed inigo028 using Join The Highland! v2.0
+[09:51:44] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:51:45] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Create your own shop without the hassle of creating a discord server! https://discord.gg/YwcAcDK
+[09:51:48] [Client thread/INFO]: [CHAT] <swartsak> > Good to see you, Markenite.
+[09:51:50] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:51:54] [Client thread/INFO]: [CHAT] <swartsak> > Catch ya later, Jim_Eric.
+[09:51:55] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join the cheapest shop on 2b2t! https://discord.gg/UUhbB5E
+[09:51:55] [Client thread/INFO]: [CHAT] PuffMLG hit the ground too hard.
+[09:51:56] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:51:59] [Client thread/INFO]: [CHAT] <swartsak> > Good evening, BrodcastMax.
+[09:52:01] [Client thread/INFO]: [CHAT] inigo028 was killed by a wither named ?Hail IHackedWalmart?
+[09:52:02] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:52:05] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join The 2b2t Mall today! https://discord.gg/YwcAcDK
+[09:52:08] [Client thread/INFO]: [CHAT] halfabuck drowned.
+[09:52:08] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:52:14] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:52:15] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Are you tired of overpriced shops? Join: https://discord.gg/UUhbB5E
+[09:52:18] [Client thread/INFO]: [CHAT] <2pork2bot> > name jef lol
+[09:52:20] [Client thread/INFO]: [CHAT] <swartsak> > Catch ya later, Forceken.
+[09:52:21] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:52:24] [Client thread/INFO]: [CHAT] <HunkyGlaze> big F
+[09:52:25] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Make your own Shop inside The 2b2t Mall! https://discord.gg/YwcAcDK
+[09:52:25] [Client thread/INFO]: [CHAT] Dr_Icesidio burned apart whilst fighting EatMyMinecraft
+[09:52:26] [Client thread/INFO]: [CHAT] <DSrOpQ> F
+[09:52:27] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:52:33] [Client thread/INFO]: [CHAT] <DeadMCPlayer> I am God.
+[09:52:35] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Create your own shop without the hassle of creating a discord server! https://discord.gg/YwcAcDK
+[09:52:36] [Client thread/INFO]: [CHAT] <Dr_Icesidio> TeamBaguette
+[09:52:38] [Client thread/INFO]: [CHAT] <swartsak> > Howdy, Sharkcaller.
+[09:52:40] [Client thread/INFO]: [CHAT] <villageboss1> kys
+[09:52:40] [Client thread/INFO]: [CHAT] <DSrOpQ> no
+[09:52:43] [Client thread/INFO]: [CHAT] DeadMCPlayer became lava.
+[09:52:45] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join the cheapest shop on 2b2t! https://discord.gg/UUhbB5E
+[09:52:47] [Client thread/INFO]: [CHAT] <halfabuck> can anyone help me out of spawn
+[09:52:57] [Client thread/INFO]: [CHAT] <Bakonn> no
+[09:52:57] [Client thread/INFO]: [CHAT] <Dr_Icesidio> TeamBaguette
+[09:52:57] [Client thread/INFO]: [CHAT] <DSrOpQ> baguette lags this server
+[09:52:57] [Client thread/INFO]: [CHAT] <Xeath_Pk> FUCK FRANCE.
+[09:52:57] [Client thread/INFO]: [CHAT] <GiB3T> silence now
+[09:52:57] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join The 2b2t Mall today! https://discord.gg/YwcAcDK
+[09:52:57] [Client thread/INFO]: [CHAT] <IHackedLambo> do alt f4
+[09:53:03] [Client thread/INFO]: [CHAT] bernli broke their neck, and the rest of their body.
+[09:53:05] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Are you tired of overpriced shops? Join: https://discord.gg/UUhbB5E
+[09:53:15] [Client thread/INFO]: [CHAT] <IHackedLambo> or watch this escaping spawn tutorial
+[09:53:15] [Client thread/INFO]: [CHAT] <Forceken> THAT IS THE QUICKEST WAY OUT OF SPAWN
+[09:53:15] [Client thread/INFO]: [CHAT] <Bakonn> nobody helps new spawns
+[09:53:15] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Make your own Shop inside The 2b2t Mall! https://discord.gg/YwcAcDK
+[09:53:15] [Client thread/INFO]: [CHAT] <swartsak> > Farewell, bernli.
+[09:53:42] [Client thread/INFO]: [CHAT] <swartsak> > Good afternoon!
+[09:53:42] [Client thread/INFO]: [CHAT] <EatMyMinecraft> fuck new players
+[09:53:42] [Client thread/INFO]: [CHAT] <IHackedLambo> ANYONE NEED HELP ESCAPING SPAWN?
+[09:53:42] [Client thread/INFO]: [CHAT] <Forceken> EVER HELPFUL
+[09:53:42] [Client thread/INFO]: [CHAT] <2pork2bot> > Did you know? #TeamPepsi is the most active team on 2b2t!
+[09:53:42] [Client thread/INFO]: [CHAT] <DSrOpQ> Forceken got killed by a 32k sword lmao
+[09:53:42] [Client thread/INFO]: [CHAT] <Bakonn> and have next to no chance
+[09:53:42] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Create your own shop without the hassle of creating a discord server! https://discord.gg/YwcAcDK
+[09:53:42] [Client thread/INFO]: [CHAT] Arkzack broke their neck, and the rest of their body.
+[09:53:44] [Client thread/INFO]: [CHAT] <villageboss1> t
+[09:53:48] [Client thread/INFO]: [CHAT] Dr_Icesidio hit the ground too hard.
+[09:53:50] [Client thread/INFO]: [CHAT] <swartsak> > See you later, timetoerist13.
+[09:53:55] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Are you tired of overpriced shops? Join: https://discord.gg/UUhbB5E
+[09:53:57] [Client thread/INFO]: [CHAT] <swartsak> > Catch ya later, IHackedLambo.
+[09:54:00] [Client thread/INFO]: [CHAT] <Rainbow_Girl1> 2b2t has a 10000 timeout
+[09:54:02] [Client thread/INFO]: [CHAT] <swartsak> > Hey, IHackedLambo.
+[09:54:03] [Client thread/INFO]: [CHAT] <KINGOFMCBRO> whos the nigger causing the server to lag
+[09:54:05] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Make your own Shop inside The 2b2t Mall! https://discord.gg/YwcAcDK
+[09:54:06] [Client thread/INFO]: [CHAT] <swartsak> > Welcome to 2b2t.org, timetoerist13.
+[09:54:09] [Client thread/INFO]: [CHAT] <IHackedLambo> ANYONE NEED HELP ESCAPING SPAWN?
+[09:54:14] [Client thread/INFO]: [CHAT] <IHackedLambo> ANYONE NEED HELP ESCAPING SPAWN?
+[09:54:14] [Client thread/INFO]: [CHAT] DainIronfoot_II was killed by a wither named 02v Was here
+[09:54:15] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Create your own shop without the hassle of creating a discord server! https://discord.gg/YwcAcDK
+[09:54:16] [Client thread/INFO]: [CHAT] <villageboss1> i need help
+[09:54:18] [Client thread/INFO]: [CHAT] <2pork2bot> > Did you know? Most people online don't remember this meme!
+[09:54:19] [Client thread/INFO]: [CHAT] <IHackedLambo> ANYONE NEED HELP ESCAPING SPAWN?
+[09:54:20] [Client thread/INFO]: [CHAT] <MuddyAssassin> i need help IHackedLambo
+[09:54:21] [Client thread/INFO]: [CHAT] <villageboss1> me
+[09:54:22] [Client thread/INFO]: [CHAT] <halfabuck> i need help
+[09:54:24] [Client thread/INFO]: [CHAT] <IHackedLambo> ALRIGHT
+[09:54:25] [Client thread/INFO]: [CHAT] <CactusCreeper> I need help to purge this ghetto
+[09:54:25] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join the cheapest shop on 2b2t! https://discord.gg/UUhbB5E
+[09:54:26] [Client thread/INFO]: [CHAT] <Bakonn> nobody's gonna help you
+[09:54:29] [Client thread/INFO]: [CHAT] <IHackedLambo> THEN WATCH THE TUTORIAL
+[09:54:30] [Client thread/INFO]: [CHAT] <MuddyAssassin> fuk u bakonn
+[09:54:30] [Client thread/INFO]: [CHAT] <halfabuck> im stuck in a hole
+[09:54:33] [Client thread/INFO]: [CHAT] <IHackedLambo> FOR SPAWN ESCAPE
+[09:54:35] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join The 2b2t Mall today! https://discord.gg/YwcAcDK
+[09:54:35] [Client thread/INFO]: [CHAT] <swartsak> > Hello, ELVEng.
+[09:54:35] [Client thread/INFO]: [CHAT] <Priimus> why are no monsters spawning?
+[09:54:35] [Client thread/INFO]: [CHAT] <villageboss1> lambo
+[09:54:38] [Client thread/INFO]: [CHAT] <DainIronfoot_II> why rusherfag
+[09:54:39] [Client thread/INFO]: [CHAT] <swartsak> > See you later, SexWithChildren.
+[09:54:40] [Client thread/INFO]: [CHAT] <IHackedLambo> HERE IS THE SPAWN ESCAPE TUTORIAL ARMORSMITH IS A FUCKING FAGGOT
+[09:54:41] [Client thread/INFO]: [CHAT] <Bakonn> im just telling you how it is
+[09:54:41] [Client thread/INFO]: [CHAT] <MuddyAssassin> thanks man!
+[09:54:45] [Client thread/INFO]: [CHAT] <swartsak> > Welcome to 2b2t.org, FutaChan69.
+[09:54:45] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Are you tired of overpriced shops? Join: https://discord.gg/UUhbB5E
+[09:54:46] [Client thread/INFO]: [CHAT] <Bakonn> nobody likes newfags
+[09:54:49] [Client thread/INFO]: [CHAT] <swartsak> > See you later, halfabuck.
+[09:54:49] [Client thread/INFO]: [CHAT] <Bakonn> nobody helps them
+[09:54:49] [Client thread/INFO]: [CHAT] <IHackedLambo> HERE
+[09:54:53] [Client thread/INFO]: [CHAT] <Bakonn> you are on your own
+[09:54:54] [Client thread/INFO]: [CHAT] <swartsak> > Catch ya later, villageboss1.
+[09:54:55] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Make your own Shop inside The 2b2t Mall! https://discord.gg/YwcAcDK
+[09:54:56] [Client thread/INFO]: [CHAT] <EatMyMinecraft> fuck newfags
+[09:55:06] [Client thread/INFO]: [CHAT] <swartsak> > Later, Ponkpunk.
+[09:55:06] [Client thread/INFO]: [CHAT] <IHackedLambo> WATCH THE ESCAPING SPAWN TUTORIAL https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[09:55:06] [Client thread/INFO]: [CHAT] <MuddyAssassin> Bakonn do you think you're cool for being on this server for a long time you weird fuk
+[09:55:06] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Create your own shop without the hassle of creating a discord server! https://discord.gg/YwcAcDK
+[09:55:12] [Client thread/INFO]: [CHAT] <MilkAndSugar> 7.2 tps
+[09:55:12] [Client thread/INFO]: [CHAT] Dr_Icesidio fell and was reduced into a jittering flesh pile.
+[09:55:13] [Client thread/INFO]: [CHAT] <MilkAndSugar> man
+[09:55:14] [Client thread/INFO]: [CHAT] <IHackedLambo> > WATCH THE ESCAPING SPAWN TUTORIAL https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[09:55:15] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join the cheapest shop on 2b2t! https://discord.gg/UUhbB5E
+[09:55:17] [Client thread/INFO]: [CHAT] Monstereds fell to death.
+[09:55:18] [Client thread/INFO]: [CHAT] <MilkAndSugar> cant mine my box xD
+[09:55:18] [Client thread/INFO]: [CHAT] <2pork2bot> > Did you know? Most people online don't remember this meme!
+[09:55:18] [Client thread/INFO]: [CHAT] <Bakonn> well im just telling you
+[09:55:19] [Client thread/INFO]: [CHAT] <swartsak> > Later, Sharkcaller.
+[09:55:22] [Client thread/INFO]: [CHAT] <Bakonn> you are not getting help
+[09:55:23] [Client thread/INFO]: [CHAT] <villageboss1> EatMyMinecraft and you are an oldgaf???
+[09:55:35] [Client thread/INFO]: [CHAT] <LordKekonomy> t
+[09:55:35] [Client thread/INFO]: [CHAT] <EatMyMinecraft> lmao
+[09:55:35] [Client thread/INFO]: [CHAT] <Bakonn> that's a fact
+[09:55:35] [Client thread/INFO]: [CHAT] <Bakonn> the sooner you realize that the better
+[09:55:35] [Client thread/INFO]: [CHAT] <msg150164> T
+[09:55:35] [Client thread/INFO]: [CHAT] <swartsak> > Farewell, Pyta.
+[09:55:35] [Client thread/INFO]: [CHAT] <JEW_K1LL3R> > Join The 2b2t Mall today! https://discord.gg/YwcAcDK
+[09:55:35] [Client thread/INFO]: [CHAT] <koraseeq> d
+[09:56:09] [Client thread/INFO]: Connecting to 2b2t.org, 25565
+[09:56:12] [Client thread/INFO]: Connecting to 2b2t.org, 25565
+[09:56:14] [Client thread/INFO]: Connecting to 2b2t.org, 25565
+[09:56:16] [Client thread/INFO]: Connecting to 2b2t.org, 25565
+[09:56:19] [Client thread/INFO]: Connecting to 2b2t.org, 25565
+[09:56:23] [Client thread/INFO]: Connecting to 2b2t.org, 25565
+[09:56:25] [Client thread/INFO]: Connecting to 2b2t.org, 25565
+[09:56:28] [Client thread/INFO]: Connecting to 2b2t.org, 25565
+[09:56:32] [Client thread/INFO]: Connecting to constantiam.net, 25565
+[09:56:43] [Client thread/INFO]: Connecting to constantiam.net, 25565
+[09:56:46] [Client thread/INFO]: Connecting to constantiam.net, 25565
+[09:56:49] [Client thread/INFO]: Connecting to constantiam.net, 25565
+[09:56:53] [Client thread/INFO]: Stopping!
+[09:56:53] [Client thread/INFO]: SoundSystem shutting down...
+[09:56:53] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

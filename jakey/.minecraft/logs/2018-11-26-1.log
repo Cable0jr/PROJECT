@@ -1,0 +1,11 @@
+[09:45:05] [Client thread/WARN]: Skipping bad option: maxFps:120
+[09:45:05] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+[09:45:08] [Client thread/INFO]: Reloading ResourceManager: Default
+[09:45:27] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:45:27] [Thread-2/INFO]: Initializing No Sound
+[09:45:27] [Thread-2/INFO]: (Silent Mode)
+[09:45:28] [Thread-2/INFO]: OpenAL initialized.
+[09:45:28] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+[09:45:28] [Sound Library Loader/INFO]: Sound engine started
+[09:45:34] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[09:45:36] [Client thread/INFO]: Narrator library for x64 successfully loaded
