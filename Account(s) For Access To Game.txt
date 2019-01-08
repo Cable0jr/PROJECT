@@ -10,7 +10,7 @@ PCXGameNPC@gmail.com
 
 How to unfuck shit and update repo.
 1) make changes.
-2) COPY FOLDERS .vs AND Forgotten World FROME YOUR REPO FOLDER
+2) COPY FOLDERS .vs AND Forgotten World FROM YOUR REPO FOLDER
 3) PASTE TO YOUR DESKTOP, AND SEND BOTH TO A ZIPPED FOLDER, NAME IT Unfuck Fuel(Next Number)!
 4) Paste new unfuck fuel in repo folder and push all of it with the commit saying what unfuck fuel you made
 5) DONE
