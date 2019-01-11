@@ -14,7 +14,7 @@ quit playing, view the "Close Now" option.
 Options
 ---
 1) Information | 1Information.txt
-2) Play | 2STORY.txt
-3) Game | 3Game.txt
-4) Changes | 4Changes.txt
-5) Close Now | CLOSE.txt
+2) Play | 1STORY.txt
+3) Game | 1Game.txt
+4) Changes | 1Changes.txt
+5) Close Now | 0CLOSE.txt

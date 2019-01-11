@@ -1,0 +1,24 @@
+﻿This will be changed with every proper release of the project.
+The newest updates will be shown at the bottom due the way the
+text is displayed.
+
+10/22/18
++ Added Game and all required resources for it to function.
+* When close selected, game appears to "Crash", No Worries!
+This is version Pre-Alpha AA.1
+
+01/09/19
++ Added Discord information
++ Added more Story lines
+* Game still displays a Crashing notification when closed
+* Still no save state
+* Internal option codes have been altered, if any errors appear
+when choosing an option, please contact a devoloper with which
+option displays the error
+This is version Pre-Aplpha AA.2
+
+
+Options
+---
+1) Back | 11START.txt
+2) Close | 0CLOSE.txt
