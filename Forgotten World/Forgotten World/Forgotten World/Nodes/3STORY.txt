@@ -40,3 +40,14 @@ Heavy ordinance is not allowed
 Travelling by foot is the best choice inside, vehicle is quick to
 and from the structure
 Avoid using and turning on power in unsecure sections
+
+------
+You read through it once or twice.. You're not sure what to think.
+Not only are you going on a mission that is exetremely risky, but
+as you go, there will be no one left here to worry about you in a
+family or romantic way.
+
+Continue
+---
+1) Continue | 4STORY.txt
+2) Quit | 0CLOSE.txt

@@ -7,7 +7,7 @@ text is displayed.
 * When close selected, game appears to "Crash", No Worries!
 This is version Pre-Alpha AA.1
 
-01/09/19
+01/13/19
 + Added Discord information
 + Added more Story lines
 * Game still displays a Crashing notification when closed
