@@ -1,20 +1,21 @@
-﻿Welcome to Forgotten World, a game currently under development by Cable_jr and (*Jake*).
-This is a text-based, story game, and though the mechanics are simple and basic, the plans
-for future releases are big.
+﻿Welcome to Forgotten World, a game currently under development by Cable_jr.
+This is a text-based, story game, and though the mechanics are simple and
+basic, the plans for future releases are big.
 
 This game is under early development, and as such there may be features present that may
 not be in the final version, and features yet to be implemented.
 
 If you wish to contact either of the Developers or view OFFICIAL sources related to this
-project, please view the "Information" option, if you feel like jumping into the game now,
-view the "Play" option, if you wish to view the basics of how to play, please view the "Game"
-option, if you wish to see the changelog, view the "Changes" option, if you wish to close and
-quit playing, view the "Close Now" option.
+project, please view the "Information" option.
+If you feel like jumping into the game now, view the "Play" option.
+If you wish to view the basics of how to play, please view the "Game" option.
+If you wish to see the changelog, view the "Changes" option.
+If you wish to close and quit playing, view the "Close Now" option.
 
 Options
 ---
-1) Information | 1Information.txt
-2) Play | 1STORY.txt
-3) Game | 1Game.txt
-4) Changes | 1Changes.txt
+1) Information | /Utilities/1Information.txt
+2) Play | /StoryMain/1STORY.txt
+3) Game | /Utilities/1Game.txt
+4) Changes | /Utilities/1Changes.txt
 5) Close Now | 0CLOSE.txt

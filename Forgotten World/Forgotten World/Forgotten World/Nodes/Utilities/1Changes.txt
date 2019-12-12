@@ -17,6 +17,12 @@ when choosing an option, please contact a devoloper with which
 option displays the error
 This is version Pre-Aplpha AA.2
 
+10/24/19
++ Game officially rebooted
++ Regular schedule planned
+* All files organized and sorted
+* Removed mention of the other Dev
+This is version Pre-Alpha AA.3
 
 Options
 ---

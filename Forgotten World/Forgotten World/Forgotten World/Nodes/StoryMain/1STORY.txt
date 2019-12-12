@@ -10,5 +10,5 @@ Your legacy? Yet to be known..
 
 Continue
 ---
-1) Continue | 2STORY.txt	
+1) Continue | /StoryMain/2STORY.txt	
 2) Close | 0CLOSE.txt

@@ -1,5 +1,5 @@
 ﻿This is Forgotten World, a text-based, adventure game being
-worked on by 2 people currently.
+worked on by 1 person currently.
 
 *THE FEATURES CURRENTLY PRESENT MAY NOT BE FINAL*
 

@@ -13,11 +13,11 @@ C:\Users\Richard\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgot
 C:\Users\Richard\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\obj\Debug\Forgotten World.exe
 C:\Users\Richard\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\obj\Debug\Forgotten World.pdb
 C:\Users\Richard\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\START.txt
-C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\2STORY.txt
 C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\11START.txt
-C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\1Information.txt
-C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\1STORY.txt
-C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\1Game.txt
-C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\3STORY.txt
-C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\1Changes.txt
 C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\0CLOSE.txt
+C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\StoryMain\1STORY.txt
+C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\StoryMain\3STORY.txt
+C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\StoryMain\2STORY.txt
+C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\Utilities\1Game.txt
+C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\Utilities\1Information.txt
+C:\Users\edwaclar131\Documents\GitHub\PROJECT\Forgotten World\Forgotten World\Forgotten World\bin\Debug\Nodes\Utilities\1Changes.txt

@@ -13,7 +13,7 @@ structure.. The package displays the following secifics;
 Mission Code Clarity
 Destination: Shelter 17; Commonly reffered to as Metal Warlock
 
-Goal of achievemant: Water Purification Core retrieval
+Goal of achievement: Water Purification Core retrieval
 -Following Information Gathered on Mar/13/2092-
 Known and Documented Inhabitants
 
@@ -49,5 +49,5 @@ family or romantic way.
 
 Continue
 ---
-1) Continue | 4STORY.txt
+1) Continue | /StoryMain/4STORY.txt
 2) Quit | 0CLOSE.txt
